@@ -1,7 +1,5 @@
 import tkinter,os,subprocess
 from tkinter import messagebox
-from tkinter import ttk
-from tkinter.ttk import Style, Button, Entry, Scrollbar
 
 root=tkinter.Tk()
 root.title('FileGrabber By Cyber_Hill')
